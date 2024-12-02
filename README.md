@@ -1,4 +1,4 @@
-# Innovación educativa y tecnologías de soporte  ↑
+# Innovación educativa y tecnologías de soporte
 
 ### *Monografía técnica SG1.56.1.57 - v2. 2024*  
 Miguel Moreno  
