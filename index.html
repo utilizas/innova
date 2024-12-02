@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+   <meta name="description" content="">
+   <title>Monografía Técnica FC24 - 26311M9</title>
+
+   <!-- Themes (light + dark) -->
+   <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+   <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/prismjs/themes/prism-tomorrow.css" />
+
+   <!-- Custom Styles -->
+   <style>
+     :root {
+    --dark-base-background: #222;
+    --dark-base-color: #bbc0c4;
+    --dark-theme-color: var(--theme-color, #42b983);
+    --dark-code-color: var(--dark-color);
+    --dark-heading-color: var(--dark-theme-color);
+    --dark-cover-background: #000000a8;
+    --dark-code-background: #303030;
+    --dark-tip-background: #2c0000;
+    --dark-warn-background: #005842;
+    --dark-icon-size: 25px;
+    --dark-icon-transition: .1s ease-in-out .1s;
+    --dark-moon-color: #000000;
+    --dark-sun-color: #ffffff;
+     }
+     code {
+       background: #eee;
+       color: #555;
+       padding: 2px 5px;
+       font-weight: 600;
+       font-family: consolas, monospace;
+       border-radius: 3px;
+     }
+
+     pre {
+       font-family: consolas, monospace;
+       font-weight: normal;
+       line-height: 1.45;
+       margin: 7px 0 !important;
+       padding: 0;
+       border: 1px solid silver;
+       border-radius: 4px;
+       overflow-x: auto;
+       background: #333;
+       color: #eee;
+       white-space: pre; /* pre-line if you want to wrap */
+     }
+
+     pre > code {
+       white-space: pre;
+       padding: 0.8em !important;
+       display: block;
+       font-weight: normal;
+       color: #f5f5f5 !important;
+       background: transparent;
+     }
+
+     pre > code::-webkit-scrollbar {
+       width: 8px;
+       height: 8px;
+       background: #444;
+     }
+
+     pre > code::-webkit-scrollbar-thumb {
+       background: #999;
+     }
+   </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <!-- Configuración de Docsify -->
+  <script>
+    window.$docsify = {
+      name: 'FC24 - 26311M9',
+      repo: '',  // URL del repositorio si deseas mostrarlo en la parte superior
+      loadSidebar: false,  // Usar 'false' si no utilizas un archivo _sidebar.md
+      subMaxLevel: 2,  // Nivel máximo de encabezados que se muestran en la barra lateral
+      homepage: 'README.md',  // Página de inicio
+      plugins: [
+      function(hook, vm) {
+        hook.beforeEach(function(content) {
+          return window.renderPseudocode(content);
+        });
+      }
+    ]
+      mermaid: {
+        theme: 'default'  // Puedes cambiar el tema de Mermaid
+      },
+      
+      themeable: {
+      code: {
+        background: '#2d2d2d',
+        color: '#f8f8f2',
+        fontSize: '14px',
+        lineHeight: '1.5',
+        fontFamily: 'Courier New, Courier, monospace'
+      }
+      // Otras configuraciones
+    }
+    
+    // Configuración de Mermaid
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'base',
+      themeVariables: {
+        primaryColor: '#1e1e1e',
+        primaryTextColor: '#e0e0e0',
+        primaryBorderColor: '#4caf50',
+        lineColor: '#4caf50',
+        secondaryColor: '#161b22',
+        tertiaryColor: '#0d1117',
+        textColor: '#e0e0e0',
+        titleColor: '#e0e0e0'
+      }
+    });
+  </script>
+
+  <!-- Núcleo de Docsify -->
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+   <script src="https://unpkg.com/docsify-copy-code"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+   <script src="//cdn.jsdelivr.net/gh/LIGMATV/docsify-dark-switcher@latest/docsify-dark-switcher.js"></script>
+
+   <!-- Recommended -->
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify-pseudocode/dist/docsify-pseudocode.min.js"></script>
+
+  <!-- Librería Mermaid -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+  <!-- Plugin Mermaid para Docsify -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/prism.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/codeblock-iframe@latest/dist/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-codeblock-iframe@latest/dist/index.min.js"></script>
+</body>
+</html>
