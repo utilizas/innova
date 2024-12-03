@@ -1081,47 +1081,36 @@ Vergara Rodríguez, D. y Fernández-Arias, P. 2022. Influencia del paso del tiem
 <dd>El Aprendizaje Basado en Proyectos (ABP) es una metodología de enseñanza y aprendizaje activo que se centra en la elaboración de proyectos por parte de los estudiantes. En lugar de la transmisión pasiva de conocimientos, el ABP implica un proceso activo y participativo en el que se identifica un problema o necesidad real, se trabaja en equipo para diseñar el modo de abordarlo, se investigan las fuentes de información relevante y se desarrollan soluciones creativas. La tarea termina presentando sus resultados al grupo o a la comunidad. Puede articularse también a partir de casos.</dd>
 
 <dt>ABR</dt>
-
 <dd>El Aprendizaje Basado en Retos (ABR) es una dinámica articulada a partir de desafíos que logren motivar a los estudiantes para buscar soluciones innovadoras.</dd>
 
 <dt>ABJ</dt>
-
 <dd>El Aprendizaje Basado en Juegos (ABJ) utiliza juegos y dinámicas lúdicas para promover el aprendizaje.</dd>
 
 <dt>Accesibilidad</dt>
-
 <dd>En el contexto educativo, se refiere al diseño de entornos, herramientas y contenidos que sean utilizables y comprensibles por el mayor número posible de personas, independientemente de sus capacidades.</dd>
 
 <dt>Adobe Captivate</dt>
-
 <dd>Herramienta de autor para crear contenidos educativos interactivos como simulaciones, tutoriales y cursos online.</dd>
 
 <dt>Animaciones/video generados con IA</dt>
-
 <dd>Contenidos audiovisuales creados mediante inteligencia artificial a partir de texto o audio proporcionados por el usuario.</dd>
 
 <dt>Aplicaciones Text To Speech</dt> 
-
 <dd>Aplicaciones que convierten texto escrito a voz sintetizada, permitiendo escuchar contenidos en lugar de leerlos.</dd>
 
 <dt>Aprendizaje automático</dt>
-
 <dd>Aplicación de técnicas de machine learning en los servicios educativos dirigidos a personalizar al máximo las experiencias de aprendizaje.</dd>
 
 <dt>Aprendizaje Basado en Proyectos (ABP)</dt>
-
 <dd>Metodología centrada en el aprendizaje práctico mediante el desarrollo de proyectos que implican la resolución de un problema o reto aplicando diversos conocimientos y habilidades.</dd>
 
 <dt>Aula Invertida (Flipped Classroom)</dt>
-
 <dd>Modelo pedagógico en el que el trabajo de determinados procesos de aprendizaje se realiza fuera del aula y el tiempo de clase se utiliza para tareas de discusión, resolución de problemas, laboratorios, etc.</dd>
 
 <dt>Audiolibros</dt>
-
 <dd>Versiones de libros en formato de audio, que permiten escuchar el contenido narrado en voz humana o generada por ordenador.</dd>  
 
 <dt>Autoformación</dt>
-
 <dd>Forma de educación en la que el aprendizaje se gestiona de manera autónoma por la propia persona.</dd>
 
 <dt>Bootcamps</dt>
