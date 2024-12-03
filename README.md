@@ -262,10 +262,12 @@ Ni los mejores programas de innovación escapan al escrutinio crítico de la com
 <details>
   <summary>Modelos de aceptación de tecnologías</summary>
 
-> I. El <a href="https://acceptancelab.com/technology-acceptance-model-tam" target="_blank">Modelo de Aceptación de Tecnología</a> (TAM) postula que la aceptación de la tecnología se puede predecir por la intención conductual de los usuarios, determinada a su vez por la percepción de la utilidad de la tecnología para realizar cierta tarea y la facilidad de uso percibida.   
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #007acc; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+
+I. El <a href="https://acceptancelab.com/technology-acceptance-model-tam" target="_blank">Modelo de Aceptación de Tecnología</a> (TAM) postula que la aceptación de la tecnología se puede predecir por la intención conductual de los usuarios, determinada a su vez por la percepción de la utilidad de la tecnología para realizar cierta tarea y la facilidad de uso percibida.   
 > D. Marikyan & S. Papagiannidis (2023). Technology Acceptance Model: A review. In S. Papagiannidis (Ed), TheoryHub Book. https://open.ncl.ac.uk/theories/1/pdf/technology-acceptance-model/.   
-> 
-> → Las sucesivas versiones del modelo TAM han recibido <a href="https://en.wikipedia.org/wiki/Technology_acceptance_model#Criticisms" target="_blank">evaluaciones críticas</a> desde múltiples enfoques, en particular porque ignora los imperativos estructurales que obligan a los usuarios a adoptar ciertas tecnologías, como señala <a href="https://doi.org/10.1386/eme.8.1.29_1"><span data-toggle="tooltip" title="B. Lunceford (2009). Reconsidering Technology Adoption and Resistance Observations of a Semi-Luddite. Explorations in Media Ecology 8 (1): 29–48.">Lunceford</span></a>. 
+
+→ Las sucesivas versiones del modelo TAM han recibido <a href="https://en.wikipedia.org/wiki/Technology_acceptance_model#Criticisms" target="_blank">evaluaciones críticas</a> desde múltiples enfoques, en particular porque ignora los imperativos estructurales que obligan a los usuarios a adoptar ciertas tecnologías, como señala <a href="https://doi.org/10.1386/eme.8.1.29_1"><span data-toggle="tooltip" title="B. Lunceford (2009). Reconsidering Technology Adoption and Resistance Observations of a Semi-Luddite. Explorations in Media Ecology 8 (1): 29–48.">Lunceford</span></a>. 
   
 a. ![TAM1](https://open.ncl.ac.uk/main/images/theories/1-1.jpg)  
   
@@ -284,6 +286,8 @@ e. ![UTAUT1](https://acceptancelab.com/wp-content/uploads/2022/11/UTAUT1-2-768x4
 f. ![UTAUT2](https://acceptancelab.com/wp-content/uploads/2022/11/UTAUT2_Theorie-768x487.png)
 
 g. ![UTAUT synthesis](https://acceptancelab.com/wp-content/uploads/2023/01/UTAUT_Extension_Modell.png)
+
+</blockquote>
 
 </details>
 
@@ -374,8 +378,7 @@ El modelo de encaje (*matching person and technology model*) entre personas y te
 
 </details>
 
-<details><summary style="font-weight: ;">
-Caso a estudiar</summary>
+<details><summary style="font-weight: ;">Caso a estudiar</summary>
 
 <blockquote style="margin: 25px; background-color: #f7f7f7; border-left: 5px solid #005283; font-family: 'Roboto', sans-serif; color: #333333;">
 
@@ -534,6 +537,8 @@ El potencial para transformar la educación preuniversitaria y superior hacia un
 <details>
   <summary>Cómo crear contenidos interactivos en abierto</summary>
 
+<div style="background-color: #828a83; border: 0px solid black; padding: 20px; margin: 20px; color: black; font-family: 'Roboto', sans-serif; font-weight: normal; border-radius: 5px;">
+
 Existen múltiples herramientas y alternativas en código abierto para generar recursos educativos interactivos de calidad. A continuación se indican algunas de las más conocidas:
 
 - [H5P](https://h5p.org/) es una plataforma de código abierto que permite crear contenidos educativos y actividades interactivas. Su funcionalidad incluye la posibilidad de generar más de 40 tipos distintos de recursos (vídeos interactivos, preguntas, juegos, encuestas, líneas de tiempo, etc.). Sus especificaciones y estándares permiten compartir e incrustar el resultado en páginas web y sistemas de gestión de aprendizaje como [Moodle](https://moodle.org/). Su interfaz es sencilla e intuitiva, y no se requieren conocimientos de programación para que estudiantes y docentes pueden crear contenidos interactivos de calidad, que se pueden distribuir y reutilizar en abierto bajo licencias *[Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)*.  
@@ -544,22 +549,26 @@ Existen múltiples herramientas y alternativas en código abierto para generar r
 - [Wink](https://www.debugmode.com/wink/): software para crear tutoriales y presentaciones multimedia interactivas.   
 - [Hot Potatoes](https://hotpot.uvic.ca/): autor desktop para generar ejercicios interactivos de rellenar huecos, crucigramas, ordenar palabras, etc.  
 
+</div>
+
 </details>
 
 <details>
   <summary>Casos a estudiar: Obsolescencia del software y equipamiento</summary>
   
-  <blockquote style="margin: 25px; background-color: #f7f7f7; border-left: 4px solid #005283; font-family: 'Roboto', sans-serif; color: #333333;">
+  <blockquote style="margin: 25px; background-color: #3B3A39; border-left: 4px solid #005283; font-family: 'Roboto', sans-serif;">
 
-I. Caso 1: **Obsolescencia del software y dispositivos avanzados de aprendizaje**  
+### Caso 1: **Obsolescencia del software y dispositivos avanzados de aprendizaje**  
 
-> Incluso cuando se encuentra una aplicación o herramienta extraordinariamente útil es importante barajar alternativas, puesto que tanto el software abierto como el propietario está sujeto a ciclos de obsolescencia y, cuando aparecen nuevos estándares, no todas las empresas y colectivos involucrados en su desarrollo se ponen de acuerdo para sacar nuevas versiones o mejorar las existentes.     
-> 
-> Véase este ejemplo, centrado en plataformas virtuales interactivas (PVI), que se analiza en <a href="https://dialnet.unirioja.es/descarga/articulo/8538287.pdf" target="_blank">Vergara Rodríguez y Fernández-Arias (2022): 92</a>:  
-> 
-> ![PVI](pvi.png)
+Incluso cuando se encuentra una aplicación o herramienta extraordinariamente útil es importante barajar alternativas, puesto que tanto el software abierto como el propietario está sujeto a ciclos de obsolescencia y, cuando aparecen nuevos estándares, no todas las empresas y colectivos involucrados en su desarrollo se ponen de acuerdo para sacar nuevas versiones o mejorar las existentes.     
+ 
+Véase este ejemplo, centrado en plataformas virtuales interactivas (PVI), estudiado por <a href="https://dialnet.unirioja.es/descarga/articulo/8538287.pdf" target="_blank">Vergara Rodríguez y Fernández-Arias (2022): 92</a>:  
 
-II. Caso 2: **Obsolescencia y sostenibilidad en la transformación digital de la educación**
+![PVI](pvi.png)
+
+---
+
+### Caso 2: Obsolescencia y sostenibilidad en la transformación digital de la educación
 
 1. **Antecedentes**  
 
@@ -579,13 +588,13 @@ Se sugiere ampliar el marco temporal en la toma de decisiones sobre adquisicione
 
 5. **Documentación**  
 
-- *Referencias*  <small>
+*Referencias*  <small>
 1. Greaves, T. W., Hayes, J., Wilson, L., Gielniak, M., & Peterson, R. L. (2012). Revolutionizing education through technology: The Project RED roadmap for transformation. Eugene, Oregon: International Society for Technology in Education.  
 2. Philipsen, B., Tondeur, J., McKenney, S., & Zhu, C. (2019). Supporting teacher reflection during online professional development: A logic modelling approach. Technology, Pedagogy and Education, 28(2), 237-253.  
 3. Ford, M., Lavigne, A., Fiegener, M., & Si, E. (2019). Understanding Districts’ Realities Implementing 1:1 Computing Initiatives. Seminole County Public Schools.  
 4. Aldunate, R., & Nussbaum, M. (2013). Teacher adoption of technology. Computers in Human Behavior, 29(3), 519-524. https://doi.org/10.1016/j.chb.2012.10.017.</small>  
 
-- *Enlaces*  
+*Enlaces*  
 <small>
 - [Teacher adoption of technology](https://www.sciencedirect.com/science/article/pii/S074756321200297X)  
 - [Understanding Districts’ Realities Implementing 1:1 Computing Initiatives](https://core.ac.uk/outputs/84112023)  
@@ -596,6 +605,8 @@ Se sugiere ampliar el marco temporal en la toma de decisiones sobre adquisicione
 </blockquote>
 
 </details>
+
+---
 
 ---
 
@@ -1071,16 +1082,18 @@ Vergara Rodríguez, D. y Fernández-Arias, P. 2022. Influencia del paso del tiem
 
 # Glosario
 
+### [A-M](#a-m) | [N-Z](#n-z)
+
+## A-M
 
 <dt>2-Sigma Shift</dt> 
-
 <dd>Concepto estadístico aplicado en la mejora de procesos educativos para indicar un desplazamiento significativo en el rendimiento. Se interpreta como una mejora significativa en el aprendizaje de los estudiantes, típicamente dos desviaciones estándar por encima de la media, atribuido al uso efectivo de tecnología educativa.</dd>
 
 <dt>ABP</dt>
-
 <dd>El Aprendizaje Basado en Proyectos (ABP) es una metodología de enseñanza y aprendizaje activo que se centra en la elaboración de proyectos por parte de los estudiantes. En lugar de la transmisión pasiva de conocimientos, el ABP implica un proceso activo y participativo en el que se identifica un problema o necesidad real, se trabaja en equipo para diseñar el modo de abordarlo, se investigan las fuentes de información relevante y se desarrollan soluciones creativas. La tarea termina presentando sus resultados al grupo o a la comunidad. Puede articularse también a partir de casos.</dd>
 
-<dt>ABR</dt>
+<dt>BR</dt>
+
 <dd>El Aprendizaje Basado en Retos (ABR) es una dinámica articulada a partir de desafíos que logren motivar a los estudiantes para buscar soluciones innovadoras.</dd>
 
 <dt>ABJ</dt>
@@ -1209,6 +1222,10 @@ Vergara Rodríguez, D. y Fernández-Arias, P. 2022. Influencia del paso del tiem
 <dt>Move AI</dt>
 <dd>Plataforma de animación 3D impulsada por inteligencia artificial.</dd>
 
+[▲](#glosario) 
+
+## N-Z
+
 <dt>OBS Studio</dt>
 <dd>Software libre y de código abierto para grabar y transmitir contenido de audio y video en directo.</dd>
 
@@ -1276,5 +1293,7 @@ Vergara Rodríguez, D. y Fernández-Arias, P. 2022. Influencia del paso del tiem
 
 <dt>Webinars</dt>
 <dd>Seminarios, conferencias o talleres transmitidos en vivo mediante videoconferencia por internet.</dd>
+
+[▲](#glosario) 
 
 ---
